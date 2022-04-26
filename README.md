@@ -5,6 +5,17 @@
 - ⚡ I love rock climbing, traveling and my dog.
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/guillen1/).
 
+<!-- BLOG-POST-LIST:START 
+## Recent articles on Medium
+- []()
+BLOG-POST-LIST:END -->
+
+![Pat's GitHub stats](https://github-readme-stats.vercel.app/api?username=patxg&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patxg&layout=compact)](https://github.com/patxg/github-readme-stats)
+
+<!--START_SECTION:activity-->
+
 
 <!--
 **patxg/patxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

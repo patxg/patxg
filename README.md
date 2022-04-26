@@ -1,4 +1,10 @@
-### Hi there Friend 👋
+<h1 align="center">Hi there Friend 👋, I'm Pat <img src="https://raw.githubusercontent.com/danndigital/debbie-portfolio-2021/28bef52c5fec2ddbbcd1462246f081213cec2582/public/images/sparkle.svg" width="35px" alt="sparkle" /></h1>
+
+- 💻 Currently working on [Game Developement](https://medium.com/@pat.x.guillen) using C#.
+- 📝 I am currently learning C# and AR/VR with real world applications in sports.
+- ⚡ I love rock climbing, traveling and my dog.
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/guillen1/).
+
 
 <!--
 **patxg/patxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://raw.githubusercontent.com/patxg/patxg/master/Assets/rick.gif?raw=true" width="210" alt="giphy">](https://pat-guillen.webnode.page/)
-
-
-Assets/rick.gif
-
 <h1 align="center">Hi there Friend 👋, I'm Pat <img src="https://raw.githubusercontent.com/danndigital/debbie-portfolio-2021/28bef52c5fec2ddbbcd1462246f081213cec2582/public/images/sparkle.svg" width="35px" alt="sparkle" /></h1>
+
+[<img align='center' src="https://raw.githubusercontent.com/patxg/patxg/master/Assets/rick.gif?raw=true" width="210" alt="giphy">](https://pat-guillen.webnode.page/)
 
 - 💻 Currently working on [Game Developement](https://medium.com/@pat.x.guillen) using C#.
 - 📝 I am currently learning C# and AR/VR with real world applications in sports.

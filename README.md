@@ -9,7 +9,9 @@
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/guillen1/).
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="10">](mailto:pat.x.guillen@gmail.com) -- Feel free to email me if you want to work on a project
 
+<p align="center">
 ![Pat's GitHub stats](https://github-readme-stats.vercel.app/api?username=patxg&count_private=true&show_icons=true&theme=tokyonight)
+</p>
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=patxg&layout=default&theme=tokyonight&hide=html&hide_border=true&card_width=330)
 ![trophy](https://github-profile-trophy.vercel.app/?username=patxg&theme=onestar&no-frame=true&column=3&row=2&)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patxg&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)

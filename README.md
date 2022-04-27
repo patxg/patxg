@@ -4,17 +4,18 @@
 [<img align='left' src="https://raw.githubusercontent.com/patxg/patxg/master/Assets/rick.gif?raw=true" width="210" alt="giphy">](https://pat-guillen.webnode.page/)
 
 - 💻 Currently working on [Game Developement](https://medium.com/@pat.x.guillen) using C#.
+- 💬 My [Medium Blog](https://medium.com/@pat.x.guillen)  -- You can check out projects that I'm working on.
 - 📝 I am currently learning C# and AR/VR with real world applications in sports.
 - ⚡ I love rock climbing, traveling and my dog.
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/guillen1/).
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="10">](mailto:pat.x.guillen@gmail.com) -- Feel free to email me if you want to work on a project
 
-<h2 align="center">
+
+<br></br>
 ![Pat's GitHub stats](https://github-readme-stats.vercel.app/api?username=patxg&count_private=true&show_icons=true&theme=tokyonight)
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=patxg&layout=default&theme=tokyonight&hide=html&hide_border=true&card_width=330)
-![trophy](https://github-profile-trophy.vercel.app/?username=patxg&theme=onestar&no-frame=true&column=3&row=2&)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patxg&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-</h2>
+<!--![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=patxg&layout=default&theme=tokyonight&hide=html&hide_border=true&card_width=330)-->
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=patxg&theme=onestar&no-frame=true&column=3&row=2&)-->
 
 <!--
 [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
@@ -61,7 +62,7 @@
 
 
 
-<p align="center"><img src="https://profile-counter.glitch.me/{patxg}/count.svg" alt="Patxg :: Visitor's Count" /></p>
+<!--<p align="center"><img src="https://profile-counter.glitch.me/{patxg}/count.svg" alt="Patxg :: Visitor's Count" /></p> -->
 
 
 

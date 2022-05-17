@@ -10,6 +10,11 @@
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/guillen1/).
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="10">](mailto:pat.x.guillen@gmail.com) -- Feel free to email me if you want to work on a project
 
+[<img align='right' src="Assets/Images/UnityEssential.png" alt= UnityEssential width= "120">](https://www.credly.com/badges/9a62dabd-6ae7-4b87-99bf-af0c7586bf6a/public_url)
+
+[<img align='right' src="Assets/Images/c-scripting-fundamentals-in-unity-course.png" alt= C# width= "120">](https://www.credly.com/badges/5a105fc9-5d1c-425a-9243-41e31f33dee8/public_url)
+
+[<img align='right' src="Assets/Images/circuit-stream-certified-xr-developer-unity.png" alt= XR-Developer width= "120">](https://www.credly.com/badges/c6b18921-c523-4965-ba6f-0b963e9ef9c8/public_url)
 
 <br></br>
 ![Pat's GitHub stats](https://github-readme-stats.vercel.app/api?username=patxg&count_private=true&show_icons=true&theme=tokyonight)

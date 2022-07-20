@@ -5,7 +5,7 @@
 
 - 💻 Currently working on [Game Developement](https://medium.com/@pat.x.guillen) using C#.
 - 💬 My [Medium Blog](https://medium.com/@pat.x.guillen) & [YouTube Channel](https://www.youtube.com/channel/UClm1XgKEO8we0UKQ3mgvFDQ) -- You can check out projects that I'm working on.
-- 📝 I am currently AR/VR with real world applications.
+- 📝 I am currently working on XR applications with real world applications.
 - ⚡ I love rock climbing, traveling and my dog.
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/guillen1/).
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="10">](mailto:pat.x.guillen@gmail.com) -- Feel free to email me if you want to work on a project

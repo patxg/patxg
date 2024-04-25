@@ -20,11 +20,9 @@ View more on my [Medium](https://medium.com/@pat.x.guillen)
 
 ---
 ### 💾 My projects
-
+<!---
 <img src="https://i.imgur.com/tSyEpnJ.png" align="left" width="400px"/> 
 
-
-<!---
 # Game Name
 Game Description.​
 

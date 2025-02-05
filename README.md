@@ -1,5 +1,27 @@
 ### Hi there 👋
+## 🔥 Active Projects
+These are the projects I am actively working on:
 
+| Project | Last Activity | Stars ⭐ | Forks 🍴 |
+|---------|--------------|----------|---------|
+<!-- ACTIVE_PROJECTS -->
+
+---
+
+## 📦 Archived Projects
+These are older projects that I have archived:
+
+| Project | Last Activity | Stars ⭐ | Forks 🍴 |
+|---------|--------------|----------|---------|
+<!-- ARCHIVED_PROJECTS -->
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patxg&show_icons=true&theme=radical)
+
+## 🚀 Recent Contributions
+<!-- RECENT_COMMITS -->
 I'm a software engineer passionate about all things Systems Engineering & Game Developemnt.
 
 [<img align="left" width="22px" src="https://assetsio.reedpopcdn.com/Itch.io_logo.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp"/>Itch](https://patxg.itch.io/)

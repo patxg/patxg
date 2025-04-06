@@ -33,11 +33,7 @@ These are projects where I contributed:
 
 | Repository | Contribution Type |
 |------------|------------------|
-| [JohnstoneRobinsonqpnkd/Twainkezankan](https://github.com/JohnstoneRobinsonqpnkd/Twainkezankan) | PushEvent |
-| [mlcommons/mlperf_inference_test_submissions_v5.0](https://github.com/mlcommons/mlperf_inference_test_submissions_v5.0) | PushEvent |
-| [lufichairilanwar/project-lava](https://github.com/lufichairilanwar/project-lava) | PushEvent |
-| [chuppachupchip/device_redroid](https://github.com/chuppachupchip/device_redroid) | PushEvent |
-| [GuilhermeAntunes15/GuilhermeAntunes15](https://github.com/GuilhermeAntunes15/GuilhermeAntunes15) | PushEvent |
+| [Unity6_GPT](https://github.com/patxg/Unity6_GPT) | PushEvent |
 
 ---
 
